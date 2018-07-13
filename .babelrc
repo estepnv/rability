@@ -1,9 +1,4 @@
 {
-    "plugins": [
-        "transform-es2015-destructuring",
-        "transform-es2015-spread",
-        "transform-es2015-modules-commonjs",
-        "transform-object-rest-spread",
-        "add-module-exports"
-    ]
+   "presets": ["env"]
+
 }

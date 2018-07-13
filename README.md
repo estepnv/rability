@@ -3,7 +3,7 @@ Simple authorization library inspired by cancancan
 
 ## Installation
 ```
-npm install rability --save-dev
+npm install rability
 ```
 
 ## Usage
